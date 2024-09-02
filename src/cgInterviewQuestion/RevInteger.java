@@ -18,7 +18,7 @@ public class RevInteger {
 		
 
 		}
-		System.out.println(rev);
+		System.out.printl("number is "+rev);
 
 
 		
